@@ -1,4 +1,3 @@
 # repo_prueba
 
 
-Hola este es mi primer repo 
